@@ -4,4 +4,4 @@ script:
   - ./gradlew
 cache:
   directories:
-    - .gradle
+    - /home/travis/.gradle
